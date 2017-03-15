@@ -1,0 +1,22 @@
+{
+  "name": "my_nodes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ble_echo.js",
+  "dependencies": {
+    "bindings": "^1.2.1",
+    "bleno": "^0.4.2",
+    "noble": "^1.8.0"
+  },
+  "devDependencies": {
+    "bleno": "^0.3.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluetooth"
+  ],
+  "author": "Sanam Shakya",
+  "license": "ISC"
+}
